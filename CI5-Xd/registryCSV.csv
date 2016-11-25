@@ -1,12 +1,12 @@
 Reg #,Reg Name:,Region #,Income,Use?
-10120199,"Algeria, SÈtif (2003-2007)",1,3,0
-14340199,"Libya, Benghazi (2003-2005)",1,3,0
-14540199,"Malawi, Blantyre (2003-2007)",1,1,0
-17100199,"South Africa, PROMEC (2003-2007)",1,3,0
-17160270,"Zimbabwe, Harare: African (2003-2006)",1,1,0
-17880299,"Tunisia, North (2003-2005)",1,2,0
+10120199,"Algeria, SÈtif (2003-2007)",1,3,1
+14340199,"Libya, Benghazi (2003-2005)",1,3,1
+14540199,"Malawi, Blantyre (2003-2007)",1,1,1
+17100199,"South Africa, PROMEC (2003-2007)",1,3,1
+17160270,"Zimbabwe, Harare: African (2003-2006)",1,1,1
+17880299,"Tunisia, North (2003-2005)",1,2,1
 18000299,"Uganda, Kyadondo County (2003-2007)",1,1,1
-18180299,"Egypt, Gharbiah (2003-2007)",1,2,0
+18180299,"Egypt, Gharbiah (2003-2007)",1,2,1
 20320199,"Argentina, BahÌa Blanca (2003-2007)",2,3,1
 20320699,"Argentina, CÛrdoba (2004-2007)",2,3,1
 20320799,"Argentina, Mendoza (2003-2007)",2,3,1
