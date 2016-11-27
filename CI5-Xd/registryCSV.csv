@@ -99,7 +99,7 @@ Reg #,Reg Name:,Region #,Income,Use?
 38402430,"USA, SEER (18 registries): Black (2003-2007)",3,4,0
 38402450,"USA, SEER (18 registries): Hispanic White (2003-2007)",3,4,0
 38402460,"USA, SEER (18 registries): Non-Hispanic White (2003-2007)",3,4,0
-38402499,"USA, SEER (18 registries) (2003-2007)",3,4,18
+38402499,"USA, SEER (18 registries) (2003-2007)",3,4,0
 38402510,"USA, California: White (2003-2007)",3,4,0
 38402529,"USA, California: Asian and Pacific Islander (2003-2007)",3,4,0
 38402530,"USA, California: Black (2003-2007)",3,4,0
@@ -211,7 +211,7 @@ Reg #,Reg Name:,Region #,Income,Use?
 38408029,"USA, NPCR (42 states): Asian and Pacific Islander (2003-2007)",3,4,0
 38408030,"USA, NPCR (42 states): Black (2003-2007)",3,4,0
 38408042,"USA, NPCR (42 states): American Indian (2003-2007)",3,4,0
-38408099,"USA, NPCR (42 states) (2003-2007)",3,4,0
+38408099,"USA, NPCR (42 states) (2003-2007)",3,4,1
 40480046,Bahrain: Bahraini (2003-2007),4,4,1
 41560199,"China, Beijing City (2003-2007)",5,3,1
 41560299,"China, Qidong County (2003-2007)",5,3,1
